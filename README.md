@@ -89,8 +89,3 @@ Run the Jupyter notebook to view the analysis:
 jupyter notebook
 Contributing
 Contributions are welcome! Please read the contributing guidelines for more details.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Feel free to customize this description as per your project specifics and additional analyses you may include.
